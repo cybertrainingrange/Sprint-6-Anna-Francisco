@@ -15,7 +15,7 @@ As a cybersecurity engineer, your role involves designing, developing, and imple
  d. Security Policies: Develop security policies and procedures that outline acceptable use, incident response, access control, data classification, and other security guidelines specific to the organization.
  e. Collaboration: Coordinate with other stakeholders, such as system administrators, developers, and management, to ensure the security measures align with operational requirements and business objectives.
  
-3. Development Phase:
+ 2. Development Phase:
    
  a. Secure Coding Practices: Promote secure coding practices among software developers, emphasizing the use of libraries and frameworks with built-in security features, input validation, and protection against common vulnerabilities (e.g., SQL injection, cross-site scripting).
  b. Security Testing: Perform security testing, including vulnerability scanning, penetration testing, code review, and security assessment, to identify and address potential weaknesses and vulnerabilities.
