@@ -15,11 +15,11 @@ As a cybersecurity engineer, your role involves designing, developing, and imple
 - Collaboration: Coordinate with other stakeholders, such as system administrators, developers, and management, to ensure the security measures align with operational requirements and business objectives.
  
  2. Development Phase:
-   - Secure Coding Practices: Promote secure coding practices among software developers, emphasizing the use of libraries and frameworks with built-in security features, input validation, and protection against common vulnerabilities (e.g., SQL injection, cross-site scripting).
-   - Security Testing: Perform security testing, including vulnerability scanning, penetration testing, code review, and security assessment, to identify and address potential weaknesses and vulnerabilities.
-   - Secure Configuration: Configure systems, network devices, and software applications securely, following industry best practices and hardening guidelines provided by vendors.
-   - Encryption and Authentication: Implement robust encryption mechanisms (e.g., SSL/TLS) for data in transit and at rest. Utilize strong authentication methods, such as multi-factor authentication (MFA), to enhance access controls.
-   - Incident Response Planning: Develop an incident response plan to efficiently handle security incidents and mitigate their impact. Define roles, responsibilities, communication channels, and procedures for incident detection, containment, eradication, and recovery.
+- Secure Coding Practices: Promote secure coding practices among software developers, emphasizing the use of libraries and frameworks with built-in security features, input validation, and protection against common vulnerabilities (e.g., SQL injection, cross-site scripting).
+- Security Testing: Perform security testing, including vulnerability scanning, penetration testing, code review, and security assessment, to identify and address potential weaknesses and vulnerabilities.
+- Secure Configuration: Configure systems, network devices, and software applications securely, following industry best practices and hardening guidelines provided by vendors.
+- Encryption and Authentication: Implement robust encryption mechanisms (e.g., SSL/TLS) for data in transit and at rest. Utilize strong authentication methods, such as multi-factor authentication (MFA), to enhance access controls.
+- Incident Response Planning: Develop an incident response plan to efficiently handle security incidents and mitigate their impact. Define roles, responsibilities, communication channels, and procedures for incident detection, containment, eradication, and recovery.
 
 4. Implementation Phase:
    
