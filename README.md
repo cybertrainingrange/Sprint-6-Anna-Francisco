@@ -59,7 +59,7 @@ Logging and Monitoring:
    - Enable AWS CloudTrail to capture API activity and log files for auditing and compliance purposes.
    - Use Amazon CloudWatch for monitoring and alerting on system events, resource utilization, and security-related incidents.
    - Implement centralized logging by forwarding logs to services like Amazon CloudWatch Logs or a dedicated log management solution.
-   - 
+
 Security Testing and Vulnerability Management:
 
    - Regularly conduct vulnerability assessments and penetration testing to identify and remediate security weaknesses.
