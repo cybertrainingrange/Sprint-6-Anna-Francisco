@@ -1,6 +1,6 @@
 # Sprint-6-Anna-Francisco
 Sprint 6 
-# Efficient, Cost Effective, and Secure Design using AWS Cloud Resources and Services - Sprint 6 Anna & Fransico
+# Efficient, Cost Effective, and Secure Design using AWS Cloud Resources and Services 
 
 ![Sprint 5](https://mti.com/wp-content/uploads/2020/06/blog-siem-image-03.jpg)
 
