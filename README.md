@@ -64,7 +64,7 @@ Overall, SIEM tools play a crucial role in enhancing an organization's cybersecu
 [Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1HIGtFUXZXtAImRDnoDwXjvFat2nGWqwMEFrV3eIWatI/edit#slide=id.g4dfce81f19_0_45)
 
 ## AWS Cost
-[AWS Cost](
+[AWS Cost](https://docs.google.com/document/d/1KC6UXP5oOpZBwpPOoJ6RnTnGg7duFGMMM3kzqdfUY5Y/edit)
 
 
 ## Agile Framework
