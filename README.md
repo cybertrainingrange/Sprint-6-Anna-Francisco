@@ -120,7 +120,7 @@ Remember that the cost of implementing a secure and efficient design is an inves
 [Research](https://docs.google.com/document/d/1q-4s0wYduzxw-lVYxSbrizw33M_LNwQY/edit)
 
 ## Team Members
-- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
-- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
+- Anna [@annitamaria](https://github.com/ANNITAMARIA)
+- Francisco [@killbay](https://github.com/killbay)
 
 
