@@ -2,6 +2,7 @@
 Sprint 6 
 # Efficient, Cost Effective, and Secure Design using AWS Cloud Resources and Services 
 
+
 ![Sprint 5](https://blog.airdroid.com/wp-content/uploads/2021/11/Copy-of-Blog-Cover-4-1-2-1-1-1.png)
 
 # Documentation: 
