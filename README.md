@@ -24,6 +24,7 @@ As a cybersecurity engineer, your role involves designing, developing, and imple
  e. Incident Response Planning: Develop an incident response plan to efficiently handle security incidents and mitigate their impact. Define roles, responsibilities, communication channels, and procedures for incident detection, containment, eradication, and recovery.
 
 3. Implementation Phase:
+   
  a. Network Security: Implement network security controls, such as firewalls, intrusion prevention systems (IPS), virtual private networks (VPNs), and secure Wi-Fi networks, to protect against unauthorized access, malware, and other threats.
  b. Access Control: Configure user access controls, including role-based access control (RBAC), privileged access management (PAM), and least privilege principles, to ensure only authorized individuals have access to critical systems and data.
  c. Security Monitoring: Deploy security monitoring tools and systems, including Security Information and Event Management (SIEM) solutions, log analyzers, and intrusion detection systems (IDS), to detect and respond to security incidents in real-time.
