@@ -23,11 +23,11 @@ As a cybersecurity engineer, your role involves designing, developing, and imple
 
 4. Implementation Phase:
    
-   - Network Security: Implement network security controls, such as firewalls, intrusion prevention systems (IPS), virtual private networks (VPNs), and secure Wi-Fi networks, to protect against unauthorized access, malware, and other threats.
-   - Access Control: Configure user access controls, including role-based access control (RBAC), privileged access management (PAM), and least privilege principles, to ensure only authorized individuals have access to critical systems and data.
-   - Security Monitoring: Deploy security monitoring tools and systems, including Security Information and Event Management (SIEM) solutions, log analyzers, and intrusion detection systems (IDS), to detect and respond to security incidents in real-time.
-   - Security Awareness Training: Conduct regular security awareness training sessions to educate employees about common security threats, best practices for data protection, phishing awareness, and social engineering techniques.
-   - Continuous Improvement: Regularly review and update security measures based on emerging threats, industry trends, and lessons learned from security incidents. Stay informed about the latest vulnerabilities and security patches.
+- Network Security: Implement network security controls, such as firewalls, intrusion prevention systems (IPS), virtual private networks (VPNs), and secure Wi-Fi networks, to protect against unauthorized access, malware, and other threats.
+- Access Control: Configure user access controls, including role-based access control (RBAC), privileged access management (PAM), and least privilege principles, to ensure only authorized individuals have access to critical systems and data.
+- Security Monitoring: Deploy security monitoring tools and systems, including Security Information and Event Management (SIEM) solutions, log analyzers, and intrusion detection systems (IDS), to detect and respond to security incidents in real-time.
+- Security Awareness Training: Conduct regular security awareness training sessions to educate employees about common security threats, best practices for data protection, phishing awareness, and social engineering techniques.
+- Continuous Improvement: Regularly review and update security measures based on emerging threats, industry trends, and lessons learned from security incidents. Stay informed about the latest vulnerabilities and security patches.
 
 Throughout the entire process, it is essential to document and maintain records of security measures, configurations, incident response activities, and any changes made to the systems. Additionally, ongoing monitoring, periodic audits, and risk assessments help ensure the effectiveness and adaptability of the implemented security controls.
 
