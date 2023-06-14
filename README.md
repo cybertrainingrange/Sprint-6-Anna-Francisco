@@ -10,6 +10,7 @@ As a cybersecurity engineer, your role involves designing, developing, and imple
 1. Design Phase:
    
  a. Identify Requirements: Understand the organization's security goals, compliance regulations, and risk assessment to determine the necessary security measures. 
+ 
  b. Threat Modeling: Identify potential threats and vulnerabilities specific to the system or network being protected. Conduct a comprehensive analysis of potential attack vectors and their potential impact.
  c. Security Architecture: Design a robust security architecture that includes network segmentation, secure communication protocols, access controls, encryption, intrusion detection and prevention systems (IDPS), firewalls, and other security mechanisms.
  d. Security Policies: Develop security policies and procedures that outline acceptable use, incident response, access control, data classification, and other security guidelines specific to the organization.
