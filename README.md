@@ -8,18 +8,21 @@ Sprint 6
 As a cybersecurity engineer, your role involves designing, developing, and implementing various measures to protect computer systems, networks, and data from unauthorized access, attacks, and vulnerabilities. Here's a detailed explanation of the design, development, and implementation process in cybersecurity:
 
 1. Design Phase:
+   
  a. Identify Requirements: Understand the organization's security goals, compliance regulations, and risk assessment to determine the necessary security measures. 
  b. Threat Modeling: Identify potential threats and vulnerabilities specific to the system or network being protected. Conduct a comprehensive analysis of potential attack vectors and their potential impact.
  c. Security Architecture: Design a robust security architecture that includes network segmentation, secure communication protocols, access controls, encryption, intrusion detection and prevention systems (IDPS), firewalls, and other security mechanisms.
  d. Security Policies: Develop security policies and procedures that outline acceptable use, incident response, access control, data classification, and other security guidelines specific to the organization.
  e. Collaboration: Coordinate with other stakeholders, such as system administrators, developers, and management, to ensure the security measures align with operational requirements and business objectives.
-2. Development Phase:
+ 
+3. Development Phase:
+   
  a. Secure Coding Practices: Promote secure coding practices among software developers, emphasizing the use of libraries and frameworks with built-in security features, input validation, and protection against common vulnerabilities (e.g., SQL injection, cross-site scripting).
  b. Security Testing: Perform security testing, including vulnerability scanning, penetration testing, code review, and security assessment, to identify and address potential weaknesses and vulnerabilities.
  c. Secure Configuration: Configure systems, network devices, and software applications securely, following industry best practices and hardening guidelines provided by vendors.
  d. Encryption and Authentication: Implement robust encryption mechanisms (e.g., SSL/TLS) for data in transit and at rest. Utilize strong authentication methods, such as multi-factor authentication (MFA), to enhance access controls.
  e. Incident Response Planning: Develop an incident response plan to efficiently handle security incidents and mitigate their impact. Define roles, responsibilities, communication channels, and procedures for incident detection, containment, eradication, and recovery.
-3. Implementation Phase:
+5. Implementation Phase:
  a. Network Security: Implement network security controls, such as firewalls, intrusion prevention systems (IPS), virtual private networks (VPNs), and secure Wi-Fi networks, to protect against unauthorized access, malware, and other threats.
  b. Access Control: Configure user access controls, including role-based access control (RBAC), privileged access management (PAM), and least privilege principles, to ensure only authorized individuals have access to critical systems and data.
  c. Security Monitoring: Deploy security monitoring tools and systems, including Security Information and Event Management (SIEM) solutions, log analyzers, and intrusion detection systems (IDS), to detect and respond to security incidents in real-time.
