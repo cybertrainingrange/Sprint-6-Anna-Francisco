@@ -8,11 +8,11 @@ Sprint 6
 As a cybersecurity engineer, your role involves designing, developing, and implementing various measures to protect computer systems, networks, and data from unauthorized access, attacks, and vulnerabilities. Here's a detailed explanation of the design, development, and implementation process in cybersecurity:
 
 1. Design Phase:
-   - Identify Requirements: Understand the organization's security goals, compliance regulations, and risk assessment to determine the necessary security measures. 
-   - Threat Modeling: Identify potential threats and vulnerabilities specific to the system or network being protected. Conduct a comprehensive analysis of potential attack vectors and their potential impact.
-   - Security Architecture: Design a robust security architecture that includes network segmentation, secure communication protocols, access controls, encryption, intrusion detection and prevention systems (IDPS), firewalls, and other security mechanisms.
-   - Security Policies: Develop security policies and procedures that outline acceptable use, incident response, access control, data classification, and other security guidelines specific to the organization.
-   - Collaboration: Coordinate with other stakeholders, such as system administrators, developers, and management, to ensure the security measures align with operational requirements and business objectives.
+- Identify Requirements: Understand the organization's security goals, compliance regulations, and risk assessment to determine the necessary security measures. 
+- Threat Modeling: Identify potential threats and vulnerabilities specific to the system or network being protected. Conduct a comprehensive analysis of potential attack vectors and their potential impact.
+- Security Architecture: Design a robust security architecture that includes network segmentation, secure communication protocols, access controls, encryption, intrusion detection and prevention systems (IDPS), firewalls, and other security mechanisms.
+- Security Policies: Develop security policies and procedures that outline acceptable use, incident response, access control, data classification, and other security guidelines specific to the organization.
+- Collaboration: Coordinate with other stakeholders, such as system administrators, developers, and management, to ensure the security measures align with operational requirements and business objectives.
  
  2. Development Phase:
    - Secure Coding Practices: Promote secure coding practices among software developers, emphasizing the use of libraries and frameworks with built-in security features, input validation, and protection against common vulnerabilities (e.g., SQL injection, cross-site scripting).
