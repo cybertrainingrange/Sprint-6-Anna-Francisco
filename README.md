@@ -2,7 +2,7 @@
 Sprint 6 
 # Efficient, Cost Effective, and Secure Design using AWS Cloud Resources and Services 
 
-![Sprint 5](https://www.securitymagazine.com/ext/resources/images/cloud-computing-freepik89765432.jpg?1631714664)
+![Sprint 5](https://blog.airdroid.com/wp-content/uploads/2021/11/Copy-of-Blog-Cover-4-1-2-1-1-1.png)
 
 # Documentation: 
 As a cybersecurity engineer, your role involves designing, developing, and implementing various measures to protect computer systems, networks, and data from unauthorized access, attacks, and vulnerabilities. Here's a detailed explanation of the design, development, and implementation process in cybersecurity:
