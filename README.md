@@ -1,4 +1,4 @@
-# Sprint-5-Anna-Francisco
+# Sprint-6-Anna-Francisco
 Sprint 6 
 # Efficient, Cost Effective, and Secure Design using AWS Cloud Resources and Services - Sprint 6 Anna & Fransico
 
