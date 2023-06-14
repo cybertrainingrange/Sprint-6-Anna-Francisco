@@ -68,7 +68,7 @@ Overall, SIEM tools play a crucial role in enhancing an organization's cybersecu
 
 
 ## Agile Framework
-[Jira ](https://drive.google.com/drive/folders/1GS7j4osn6DcjvMhnEVGwa2nhQSVXsGqr)
+[Jira ](https://tkh22-23-fellowship.slack.com/archives/D04EFEJHVRC/p1686735236873909)
 
 
 
