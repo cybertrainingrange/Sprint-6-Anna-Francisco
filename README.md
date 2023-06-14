@@ -57,11 +57,11 @@ Overall, SIEM tools play a crucial role in enhancing an organization's cybersecu
 
 ## Technical Documentation
 
-[Step by step documentation](https://docs.google.com/document/d/12Nyv6eEDuQsfSSZ5Dzg3gOKf9GqQNjFOwqm8Z-Aigjc/edit)
+[Step by step documentation](https://docs.google.com/document/d/1IvccqKaTwomLh-dwx_DB6I_jegXq9G-Y/edit#heading=h.gjdgxs)
 
 ## Presentation
 
-[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1s5_pEGAIN1Bto-_RqO3YM467w92ASvc6ytIwOMgxQxw/edit#slide=id.g4dfce81f19_0_45)
+[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1HIGtFUXZXtAImRDnoDwXjvFat2nGWqwMEFrV3eIWatI/edit#slide=id.g4dfce81f19_0_45)
 
 
 ## Agile Framework
@@ -71,7 +71,7 @@ Overall, SIEM tools play a crucial role in enhancing an organization's cybersecu
 
 ## Research Questions
 
-[Research](https://docs.google.com/document/d/1RaNbkTsDpRSKrG1aX1620_sm_gfnPjzuwhusGTsYeV8/edit)
+[Research](https://docs.google.com/document/d/1q-4s0wYduzxw-lVYxSbrizw33M_LNwQY/edit)
 
 ## Team Members
 - Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
